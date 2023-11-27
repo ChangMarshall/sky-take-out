@@ -12,3 +12,13 @@ sky:
     access-key-id: LTAI5tEy7XgWj7dSzrYVB6BN
     access-key-secret: BXAEgTECiY6Z86JAV3qopDPNikLbOg
     bucket-name: springboot-web-study-cx
+
+  redis:
+    host: localhost
+    port: 6379
+    auth: 123456
+    database: 10
+
+  wechat:
+    appid: wx29e632f0f6ac2553
+    secret: fa3df1d1974667992b1bb115e7fd4970
